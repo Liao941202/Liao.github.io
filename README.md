@@ -26,5 +26,6 @@ erDiagram
         string student_id FK "學號"
         string plate_number FK "車牌號碼"
         int price "搭乘價格"
-    }```
+    }
+```
 
