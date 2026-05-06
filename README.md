@@ -1,4 +1,5 @@
-```erDiagram
+```mermaid
+erDiagram
     SCHOOL ||--o{ STUDENT : "就讀 (1:N)"
     STUDENT }|--|{ BUS : "take_bus (N:M)"
 
