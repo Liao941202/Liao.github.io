@@ -49,3 +49,4 @@ erDiagram
         string student_id PK,FK "學生學號"
         string friend_name PK "好友姓名"
     }
+```
